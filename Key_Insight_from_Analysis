@@ -1,0 +1,68 @@
+Key Insights from the Analysis:
+1.Basic Exploration:
+
+	* The dataset contains a total of 48,895 listings.
+
+	* There are 37,457 unique host IDs.
+
+	* Manhattan has the highest number of listings, totaling 21,661 in the neighbouthood_group.
+
+2.Host Analysis:
+
+	* Host ID 219517861 has the highest number of listings, with a total of 327.
+
+	* Each host ID is associated with only one host name.
+
+	* 3,132 records have more than one unique host ID.
+
+	* The host name Michael is linked to the highest number of unique host IDs (336).
+
+	* The average number of listings per host is 1.31.
+
+3.Price Analysis:
+
+	* 'Fort Wadsworth' has the highest average price of $800 among neighborhoods.
+
+	* 'Manhattan' has the highest average price of $196.88 among neighborhood groups.
+
+	* The most expensive listings include: Listing ID 22436899: '1-BR Lincoln Center',Listing ID 13894339: 'Luxury 1 bedroom apt. - stunning Manhattan views' & Listing ID 7003697: 'Furnished room in Astoria apartment'
+
+'	* Entire home/apt' room type has the highest average price of $211.79.
+
+4.Availability & Booking Trends:
+
+	* The average availability per listing is 112.78 days per year.
+
+	* A total of 1,295 listings are available year-round.
+
+	* The listing 'Room near JFK Queen Bed' (ID: 9145202) has the highest number of reviews (629).
+
+	* 10,052 listings have zero reviews.
+
+5.Customer Engagement & Ratings:
+
+	* The average number of reviews per listing is 23.27.
+
+	* Bedford-Stuyvesant is the most reviewed neighborhood with 110,352 total reviews.
+
+	* Brooklyn has the highest total reviews among neighborhood groups with 486,574 reviews.
+
+6.Geographic Distribution:
+
+	* The top 5 neighborhoods with the most listings: Williamsburg, Bedford-Stuyvesant, Harlem, Bushwick, and Upper West Side.
+
+	* Bedford-Stuyvesant has the highest number of 'private room' listings, totaling 2,038.
+
+7.Time-Based Analysis:
+
+	* The most recent review date is July 8, 2019.
+
+	* The highest number of reviews was recorded in 2019 (25,209 reviews).
+
+	* June 2019 received the highest number of reviews in a single month (12,601).
+
+	* July 2019 had the highest monthly average reviews per listing (3.16).
+
+8.Data Quality Issues:
+
+	* No duplicate listings based on name, latitude, and longitude were found.
